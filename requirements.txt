@@ -1,0 +1,5 @@
+opencv-python==4.13.0.92
+supervision==0.28.0
+ultralytics==8.4.53
+fastapi==0.136.1
+uvicorn==0.47.0
