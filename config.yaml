@@ -11,7 +11,7 @@ model:
 
 detection:
   line_orientation: vertical   # vertical 或 horizontal
-  line_ratio: 0.67            # 线位置比例 (0~1)：vertical 时是 x 轴比例，horizontal 时是 y 轴比例
+  line_ratio: 0.33            # 线位置比例 (0~1)：vertical 时是 x 轴比例，horizontal 时是 y 轴比例
   in_direction: right_to_left # vertical: right_to_left | left_to_right
                               # horizontal: top_to_bottom | bottom_to_top
   target_class: 0             # 0 = person (COCO 类别)
